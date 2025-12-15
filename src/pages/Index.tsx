@@ -87,8 +87,8 @@ const Index = () => {
               variant="outline"
               className="text-lg px-8 py-7 rounded-full border-2 hover:bg-muted/50 transition-all duration-300"
             >
-              <Icon name="PlayCircle" size={20} className="mr-2" />
-              Узнать подробнее
+              <Icon name="MessageSquare" size={20} className="mr-2" />
+              Консультация
             </Button>
           </div>
           
